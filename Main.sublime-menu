@@ -17,7 +17,7 @@
                         [
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/Cndict/cndict.sublime-settings"},
+                                "args": {"file": "${packages}/Chinese-English Bilingual Dictionary/cndict.sublime-settings"},
                                 "caption": "Settings – Default"
                             },
                             {
@@ -27,7 +27,7 @@
                             },
 							{
 								"command": "open_file",
-								"args": {"file": "${packages}/Cndict/Default.sublime-keymap"},
+								"args": {"file": "${packages}/Chinese-English Bilingual Dictionary/Default.sublime-keymap"},
 								"caption": "Keymap – Default"
 							}
                         ]
